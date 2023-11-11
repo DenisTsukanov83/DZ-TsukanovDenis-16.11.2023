@@ -162,7 +162,6 @@
   width: 100%;
   padding: calc((65 / 16) * 1rem) calc((100 / 16) * 1rem) calc((0 / 16) * 1rem) calc((85 / 16) * 1rem);
   background-color: #dddddd;
-  display: none;
 }
 .about-title {
   width: 100%;
@@ -465,6 +464,7 @@
   height: max-content;
 }
 .contact-content {
+  display: none;
   width: 100%;
   padding: calc((65 / 16) * 1rem) calc((100 / 16) * 1rem) calc((0 / 16) * 1rem) calc((85 / 16) * 1rem);
   background-color: #dddddd;
